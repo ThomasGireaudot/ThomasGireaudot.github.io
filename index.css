@@ -1,0 +1,65 @@
+/* Global styles */
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+/* Header styles */
+header {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  font-size: 36px;
+  text-transform: uppercase;
+}
+header p {
+    text-align: center;
+}
+/* Main styles */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+p {
+  margin-bottom: 20px;
+  text-align: justify;
+}
+/* Keyword styles */
+.keyword1 {
+  color: #f5c542;
+  font-weight: bold;
+}
+.keyword2 {
+  color: #ff6b6b;
+  font-weight: bold;
+}
+.keyword3 {
+  color: #00bfff;
+  font-weight: bold;
+}
+/* Footer styles */
+footer {
+  background-color: #222;
+  padding: 20px;
+  text-align: center;
+}
+small {
+  font-size: 12px;
+}
